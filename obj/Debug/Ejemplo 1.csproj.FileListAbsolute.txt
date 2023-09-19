@@ -1,0 +1,24 @@
+C:\Users\andri\OneDrive\Desktop\Programacion\Ejemplo 1\bin\Debug\Ejemplo 1.exe.config
+C:\Users\andri\OneDrive\Desktop\Programacion\Ejemplo 1\bin\Debug\Ejemplo 1.exe
+C:\Users\andri\OneDrive\Desktop\Programacion\Ejemplo 1\bin\Debug\Ejemplo 1.pdb
+C:\Users\andri\OneDrive\Desktop\Programacion\Ejemplo 1\obj\Debug\Ejemplo 1.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Desktop\Programacion\Ejemplo 1\obj\Debug\Ejemplo 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\andri\OneDrive\Desktop\Programacion\Ejemplo 1\obj\Debug\Ejemplo 1.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Desktop\Programacion\Ejemplo 1\obj\Debug\Ejemplo 1.exe
+C:\Users\andri\OneDrive\Desktop\Programacion\Ejemplo 1\obj\Debug\Ejemplo 1.pdb
+C:\Users\andri\OneDrive\Desktop\1AM1\programacion\Ejemplo 1\obj\Debug\Ejemplo 1.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Desktop\1AM1\programacion\Ejemplo 1\obj\Debug\Ejemplo 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\andri\OneDrive\Desktop\1AM1\programacion\Ejemplo 1\obj\Debug\Ejemplo 1.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Desktop\1AM1\programacion\Ejemplo 1\obj\Debug\Ejemplo 1.exe
+C:\Users\andri\OneDrive\Desktop\1AM1\programacion\Ejemplo 1\obj\Debug\Ejemplo 1.pdb
+C:\Users\andri\OneDrive\Desktop\1AM1\programacion\Ejemplo 1\bin\Debug\Ejemplo 1.exe.config
+C:\Users\andri\OneDrive\Desktop\1AM1\programacion\Ejemplo 1\bin\Debug\Ejemplo 1.exe
+C:\Users\andri\OneDrive\Desktop\1AM1\programacion\Ejemplo 1\bin\Debug\Ejemplo 1.pdb
+C:\Users\andri\OneDrive\Desktop\1AM1\programacion\calculadora de conjunto\bin\Debug\Ejemplo 1.exe.config
+C:\Users\andri\OneDrive\Desktop\1AM1\programacion\calculadora de conjunto\bin\Debug\Ejemplo 1.exe
+C:\Users\andri\OneDrive\Desktop\1AM1\programacion\calculadora de conjunto\bin\Debug\Ejemplo 1.pdb
+C:\Users\andri\OneDrive\Desktop\1AM1\programacion\calculadora de conjunto\obj\Debug\Ejemplo 1.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive\Desktop\1AM1\programacion\calculadora de conjunto\obj\Debug\Ejemplo 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\andri\OneDrive\Desktop\1AM1\programacion\calculadora de conjunto\obj\Debug\Ejemplo 1.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive\Desktop\1AM1\programacion\calculadora de conjunto\obj\Debug\Ejemplo 1.exe
+C:\Users\andri\OneDrive\Desktop\1AM1\programacion\calculadora de conjunto\obj\Debug\Ejemplo 1.pdb
